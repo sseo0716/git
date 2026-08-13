@@ -1,0 +1,4 @@
+#민감한 파일
+.env
+#나만 쓰는 파일
+CLAUDE.local.md
